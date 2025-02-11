@@ -1,4 +1,5 @@
-The following tables show how each measure can be directly applied during the data cleaning process to ensure datasets are consistent, accurate, and free of anomalies.
+The following tables show how each statistical measure can be directly applied during the data cleaning process to ensure datasets are consistent, accurate, and free of anomalies.
+
 # Table 1: Measures of Central Tendency in Data Cleaning
 
 | Measure | Formula | Hint: Data Cleaning Aspect | Scenario 1 | Scenario 2 |
