@@ -31,11 +31,13 @@ The following tables show how each measure can be directly applied during the da
 
 # Data Cleaning Use Cases:
 
+
 ## 1. Central Tendency:
 - **Mean**: Detect outliers that may pull the average up or down.
 - **Median**: Use for datasets with skewed distributions or significant outliers.
 - **Mode**: Identify common categories and detect inconsistent entries.
 - **Harmonic/Geometric Means**: Useful for ensuring rates and ratios follow expected patterns.
+
 
 ## 2. Dispersion:
 - Use **range** for spotting extremes.
